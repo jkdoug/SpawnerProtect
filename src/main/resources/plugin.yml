@@ -1,0 +1,4 @@
+name: SpawnerProtect
+main: net.genmc.spawnerprotect.SpawnerProtect
+version: 0.9
+commands:
